@@ -1,0 +1,9 @@
+# Core LIBRIS works with Python's standard library. The packages below enable optional features.
+pyttsx3>=2.90
+SpeechRecognition>=3.10
+sounddevice>=0.5
+soundfile>=0.14
+pypdf>=5.0
+fonttools>=4.0
+EbookLib>=0.18
+beautifulsoup4>=4.12
