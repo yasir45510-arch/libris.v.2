@@ -1,0 +1,11 @@
+The LIBRIS Reading Room
+
+Ada arrived at the LIBRIS Reading Room on a quiet Monday morning. She wanted to learn Python so she could build a helpful reading assistant for students.
+
+The librarian, Mr. Okafor, showed Ada how to organise books by title and author. He explained that a good digital library should remember where each reader stopped.
+
+Ada wrote a small program that saved a reader's paragraph position. When Ben returned the next day, the program welcomed him back and continued his story from the exact paragraph he had reached.
+
+At the end of the week, Ada asked the assistant, "Why should a reading application save progress?" The assistant found Mr. Okafor's explanation and replied that saved progress helps a reader return to the correct place without searching through the whole book again.
+
+So what did you learn?

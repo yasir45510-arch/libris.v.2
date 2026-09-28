@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+books/library/*
+!books/library/.gitkeep
+data/progress/
+books/current.json

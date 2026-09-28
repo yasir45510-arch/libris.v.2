@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ce070909",
+    "title": "LIBRIS Demo",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\ce070909.txt",
+    "format": "txt",
+    "added_at": "2026-09-02T07:27:55.738568+00:00"
+  },
+  {
+    "id": "c6e8704f",
+    "title": "[AS] A Warrior Exiled by the Hero Ch 01 - 143",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\c6e8704f.epub",
+    "format": "epub",
+    "added_at": "2026-09-24T18:30:04.368456+00:00"
+  },
+  {
+    "id": "da4568fa",
+    "title": "thinkpython2",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\da4568fa.pdf",
+    "format": "pdf",
+    "added_at": "2026-09-24T18:33:58.227587+00:00"
+  },
+  {
+    "id": "eacb9fae",
+    "title": "[AS] TsukiMichi - V01",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\eacb9fae.epub",
+    "format": "epub",
+    "added_at": "2026-09-24T19:55:58.004775+00:00"
+  },
+  {
+    "id": "f3ae02d4",
+    "title": "Apple (Chao planoy) (z-library.sk, 1lib.sk, z-lib.sk)",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\f3ae02d4.epub",
+    "format": "epub",
+    "added_at": "2026-09-24T20:08:23.513819+00:00"
+  },
+  {
+    "id": "fd792863",
+    "title": "thinkpython2",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\fd792863.pdf",
+    "format": "pdf",
+    "added_at": "2026-09-24T20:49:07.051559+00:00"
+  },
+  {
+    "id": "efa15d6b",
+    "title": "thinkpython2",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\efa15d6b.pdf",
+    "format": "pdf",
+    "added_at": "2026-09-24T20:50:35.319772+00:00"
+  },
+  {
+    "id": "6bab4adc",
+    "title": "My Sister Is A Monster",
+    "author": "Unknown",
+    "path": "C:\\Users\\HP\\Documents\\New project\\AI Experiments\\Projects\\LIBRIS\\books\\library\\6bab4adc.epub",
+    "format": "epub",
+    "added_at": "2026-09-27T06:15:43.578265+00:00"
+  }
+]
